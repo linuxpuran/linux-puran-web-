@@ -1,0 +1,72 @@
+body {margin:0;}
+
+.icon-bar {
+    width: auto;
+    background-color: #555;
+    overflow: auto;
+    margin-top: 50px;
+}
+
+.icon-bar a {
+
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 10px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 30px;
+
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color:  #e67e22 !important;
+}
+.fa-linux{
+  margin-top: 50px;
+  font-size: 150px;
+}
+..fa{color:black;}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border-bottom:2px solid  #e67e22
+;
+}
+small{
+  font-size:15px;
+}
+  
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.foot {
+   
+   left: 0;
+   bottom: 0;
+   padding:10px;
+   background-color: rgba(1,1,1,.2);
+   color: white;
+   text-align: center;
+}
