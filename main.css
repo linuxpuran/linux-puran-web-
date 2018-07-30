@@ -26,10 +26,7 @@ body {margin:0;}
 .active {
     background-color:  #e67e22 !important;
 }
-.fa-linux{
-  margin-top: 50px;
-  font-size: 150px;
-}
+
 ..fa{color:black;}
 .button {
     background-color: #4CAF50; /* Green */
